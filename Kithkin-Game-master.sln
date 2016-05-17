@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5A582D3B-F2FA-73DD-982C-2B3793B94F8F}") = "Kithkin-Game-master", "Assembly-CSharp-firstpass.csproj", "{901B6735-904F-BB69-6EB1-EAE181726811}"
+EndProject
+Project("{5A582D3B-F2FA-73DD-982C-2B3793B94F8F}") = "Kithkin-Game-master", "Assembly-CSharp.csproj", "{228BBEB5-2DD4-E9FB-4F84-A22540BFB953}"
+EndProject
+Project("{5A582D3B-F2FA-73DD-982C-2B3793B94F8F}") = "Kithkin-Game-master", "Assembly-CSharp-Editor.csproj", "{39ABDE4C-2071-8D1F-0B56-9F3596431342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901B6735-904F-BB69-6EB1-EAE181726811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901B6735-904F-BB69-6EB1-EAE181726811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901B6735-904F-BB69-6EB1-EAE181726811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901B6735-904F-BB69-6EB1-EAE181726811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228BBEB5-2DD4-E9FB-4F84-A22540BFB953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228BBEB5-2DD4-E9FB-4F84-A22540BFB953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228BBEB5-2DD4-E9FB-4F84-A22540BFB953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228BBEB5-2DD4-E9FB-4F84-A22540BFB953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ABDE4C-2071-8D1F-0B56-9F3596431342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ABDE4C-2071-8D1F-0B56-9F3596431342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ABDE4C-2071-8D1F-0B56-9F3596431342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ABDE4C-2071-8D1F-0B56-9F3596431342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
